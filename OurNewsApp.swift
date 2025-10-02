@@ -32,3 +32,7 @@ struct OurNewsApp: App {
 // MARK: - App Configuration
 // Target: iOS 16+
 // Architecture: MVVM
+
+// MARK: - App Configuration
+// Target: iOS 16+
+// Architecture: MVVM
