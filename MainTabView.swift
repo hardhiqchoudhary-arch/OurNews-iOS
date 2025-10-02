@@ -46,3 +46,9 @@ struct MainTabView: View {
 // 1: Search
 // 2: Bookmarks
 // 3: Profile
+
+// MARK: - Tab Structure
+// 0: News
+// 1: Search
+// 2: Bookmarks
+// 3: Profile
