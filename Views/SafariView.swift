@@ -1,6 +1,5 @@
 //
 //  SafariView.swift
-//  OurNews
 //
 
 

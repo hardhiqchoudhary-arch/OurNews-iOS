@@ -1,6 +1,5 @@
 //
 //  PHPickerRepresentable.swift
-//  OurNews
 //
 //  Modern Photo Library Picker using PHPickerViewController
 //

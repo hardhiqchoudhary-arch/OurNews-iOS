@@ -1,8 +1,6 @@
 //
 //  FollowersListView.swift
-//  OurNews
 //
-//  Created by Hardhiq Choudhary on 20/11/25.
 //
 //  Shows list of followers for a user
 //

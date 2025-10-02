@@ -1,6 +1,5 @@
 //
 //  ArticleBookmarkViewModel.swift
-//  OurNews
 //
 
 import SwiftUI

@@ -1,6 +1,5 @@
 //
 //  SearchTabView.swift
-//  OurNews
 //
 
 

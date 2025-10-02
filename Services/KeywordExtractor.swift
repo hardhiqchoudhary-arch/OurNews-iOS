@@ -1,6 +1,5 @@
 //
 //  KeywordExtractor.swift
-//  OurNews
 //
 //  Created on 11/02/25.
 //

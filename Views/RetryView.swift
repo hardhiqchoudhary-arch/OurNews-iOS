@@ -1,6 +1,5 @@
 //
 //  RetryView.swift
-//  OurNews
 //
 
 

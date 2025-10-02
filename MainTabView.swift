@@ -1,8 +1,6 @@
 //
 //  MainTabView.swift
-//  OurNews
 //
-//  Created by Hardhiq Choudhary on 16/11/25.
 //
 
 import SwiftUI

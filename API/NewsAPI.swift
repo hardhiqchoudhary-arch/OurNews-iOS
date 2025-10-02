@@ -1,6 +1,5 @@
 //
 //  NewsAPI.swift
-//  OurNews
 //
 
 import Foundation

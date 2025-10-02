@@ -1,6 +1,5 @@
 //
 //  DataStore.swift
-//  OurNews
 //
 
 

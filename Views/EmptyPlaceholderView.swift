@@ -1,6 +1,5 @@
 //
 //  EmptyPlaceholderView.swift
-//  OurNews
 //
 
 import SwiftUI

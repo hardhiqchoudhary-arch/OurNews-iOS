@@ -1,8 +1,6 @@
 //
 //  SocialFeedView.swift
-//  OurNews
 //
-//  Created by Hardhiq Choudhary on 13/11/25.
 //
 
 import SwiftUI

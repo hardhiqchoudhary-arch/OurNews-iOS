@@ -1,6 +1,5 @@
 //
 //  NewsAPIResponse.swift
-//  OurNews
 //
 
 

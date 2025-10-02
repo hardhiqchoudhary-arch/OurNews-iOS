@@ -1,6 +1,5 @@
 //
 //  Models.swift
-//  OurNews
 //
 //  WITHOUT FirebaseFirestoreSwift dependency
 //

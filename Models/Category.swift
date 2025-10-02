@@ -1,6 +1,5 @@
 //
 //  Category.swift
-//  OurNews
 //
 
 import Foundation

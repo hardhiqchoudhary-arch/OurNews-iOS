@@ -1,8 +1,6 @@
 //
 //  UserSearchView.swift
-//  OurNews
 //
-//  Created by Hardhiq Choudhary on 20/11/25.
 //
 //  Dedicated view for searching and finding users
 //

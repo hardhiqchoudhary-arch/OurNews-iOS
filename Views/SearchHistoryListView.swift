@@ -1,6 +1,5 @@
 //
 //  SearchHistoryListView.swift
-//  OurNews
 //
 
 

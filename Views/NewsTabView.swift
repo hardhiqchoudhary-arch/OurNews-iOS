@@ -1,6 +1,5 @@
 //
 //  NewsTabView.swift
-//  OurNews
 //
 
 import SwiftUI

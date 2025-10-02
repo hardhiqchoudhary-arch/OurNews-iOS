@@ -1,6 +1,5 @@
 //
 //  ImagePicker.swift
-//  OurNews
 //
 //  Camera and Photo Library Picker
 //

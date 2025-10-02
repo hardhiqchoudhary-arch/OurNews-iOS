@@ -1,6 +1,5 @@
 //
 //  ArticleSearchViewModel.swift
-//  OurNews
 //
 
 

@@ -1,8 +1,6 @@
 //
 //  CreateGroupView.swift
-//  OurNews
 //
-//  Created by Hardhiq Choudhary on 11/11/25.
 //
 
 import SwiftUI

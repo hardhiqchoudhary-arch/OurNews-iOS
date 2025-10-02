@@ -1,8 +1,6 @@
 //
 //  ArticlesListView.swift
-//  OurNews
 //
-//  Created by Hardhiq Choudhary on 20/11/25.
 //
 //  Shows all articles by a specific user
 //

@@ -1,6 +1,5 @@
 //
 //  ArticleNewsViewModel.swift
-//  OurNews
 //
 
 import SwiftUI

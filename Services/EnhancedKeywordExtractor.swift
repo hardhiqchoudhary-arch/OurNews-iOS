@@ -1,6 +1,5 @@
 //
 //  EnhancedKeywordExtractor.swift
-//  OurNews
 //
 //  Enhanced NLP keyword extraction using NLEmbedding (Word Vectors)
 //  New Pipeline: Scan N-grams → NLTagger per section → Merge → Score → Rank

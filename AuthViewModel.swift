@@ -1,8 +1,6 @@
 //
 //  FirebaseAuthViewModel.swift
-//  OurNews
 //
-//  Created by Hardhiq Choudhary on 01/11/25.
 //
 
 import Foundation

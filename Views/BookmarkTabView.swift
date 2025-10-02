@@ -1,6 +1,5 @@
 //
 //  BookmarkTabView.swift
-//  OurNews
 //
 
 
