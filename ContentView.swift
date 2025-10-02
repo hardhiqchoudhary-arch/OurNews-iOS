@@ -16,3 +16,8 @@ struct ContentView: View {
 // Primary: Blue
 // Secondary: Gray
 // Accent: Orange
+
+// MARK: - Color Constants
+// Primary: Blue
+// Secondary: Gray
+// Accent: Orange
