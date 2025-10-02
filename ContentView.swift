@@ -11,3 +11,8 @@ struct ContentView: View {
         }
     }
 }
+
+// MARK: - Color Constants
+// Primary: Blue
+// Secondary: Gray
+// Accent: Orange
