@@ -288,3 +288,7 @@ class FirebaseAuthViewModel: ObservableObject {
         }
     }
 }
+
+// MARK: - Auth State
+// Observed via Firebase Auth listener
+// Published to root ContentView
