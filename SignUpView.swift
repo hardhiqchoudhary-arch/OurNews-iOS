@@ -147,3 +147,7 @@ struct SignUpView_Previews: PreviewProvider {
             .environmentObject(FirebaseAuthViewModel())
     }
 }
+
+// MARK: - Session
+// Persist login state via Keychain
+// Auto-logout after 30 days
