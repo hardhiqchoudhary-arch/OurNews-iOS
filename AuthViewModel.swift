@@ -266,3 +266,8 @@ class FirebaseAuthViewModel: ObservableObject {
         }
     }
 }
+
+// MARK: - Firebase Error Codes
+// auth/wrong-password
+// auth/user-not-found
+// auth/too-many-requests
