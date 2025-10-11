@@ -107,3 +107,7 @@ struct LoginView_Previews: PreviewProvider {
             .environmentObject(FirebaseAuthViewModel())
     }
 }
+
+// MARK: - Validation
+// Min password length: 8
+// Requires: uppercase, number
