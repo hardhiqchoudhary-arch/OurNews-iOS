@@ -151,3 +151,7 @@ struct SignUpView_Previews: PreviewProvider {
 // MARK: - Session
 // Persist login state via Keychain
 // Auto-logout after 30 days
+
+// MARK: - Session
+// Persist login state via Keychain
+// Auto-logout after 30 days
