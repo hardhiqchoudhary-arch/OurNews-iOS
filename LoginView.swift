@@ -111,3 +111,7 @@ struct LoginView_Previews: PreviewProvider {
 // MARK: - Validation
 // Min password length: 8
 // Requires: uppercase, number
+
+// MARK: - Validation
+// Min password length: 8
+// Requires: uppercase, number
