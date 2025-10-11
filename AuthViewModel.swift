@@ -271,3 +271,8 @@ class FirebaseAuthViewModel: ObservableObject {
 // auth/wrong-password
 // auth/user-not-found
 // auth/too-many-requests
+
+// MARK: - Firebase Error Codes
+// auth/wrong-password
+// auth/user-not-found
+// auth/too-many-requests
