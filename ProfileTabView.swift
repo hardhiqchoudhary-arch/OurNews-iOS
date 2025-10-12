@@ -31,3 +31,7 @@ struct ProfileTabView: View {
         }
     }
 }
+
+// MARK: - Remember Me
+// Stores UID in UserDefaults
+// Skips login on relaunch
