@@ -77,3 +77,7 @@ struct NewsTabView_Previews: PreviewProvider {
             .environmentObject(articleBookmarkVM)
     }
 }
+
+// MARK: - Feed
+// Fetches top 20 articles
+// Sorted by publishedAt desc
