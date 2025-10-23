@@ -58,3 +58,7 @@ struct ArticlesListView: View {
             .sorted { $0.createdAt > $1.createdAt }
     }
 }
+
+// MARK: - Pagination
+// Page size: 20
+// Loads next page on scroll to bottom
