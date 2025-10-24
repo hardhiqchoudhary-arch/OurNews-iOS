@@ -24,3 +24,6 @@ enum Category: String, CaseIterable {
 extension Category: Identifiable {
     var id: Self { self }
 }
+
+// MARK: - Categories
+// Tech, Sports, Business, Health, Entertainment
