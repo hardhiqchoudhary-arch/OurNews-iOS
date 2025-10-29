@@ -1,0 +1,316 @@
+# News Domain Common Trigrams (3-word phrases)
+# High-value multi-word expressions from news corpora
+# These are domain-specific terms that should be kept as single units
+# Format: one phrase per line (lowercase)
+
+## Government & Politics
+secretary of state
+speaker of house
+leader of opposition
+commander in chief
+state of emergency
+state of union
+declaration of independence
+bill of rights
+checks and balances
+separation of powers
+executive vice president
+minister of defense
+minister of finance
+minister of foreign
+attorney general office
+united states senate
+united states congress
+department of justice
+department of defense
+department of homeland
+department of state
+federal bureau investigation
+central intelligence agency
+national security council
+environmental protection agency
+food and drug
+securities and exchange
+centers for disease
+
+## International Organizations
+united nations security
+world health organization
+international monetary fund
+world trade organization
+world bank group
+international criminal court
+north atlantic treaty
+organization of american
+association of southeast
+european central bank
+international atomic energy
+united nations general
+
+## Economics & Markets
+dow jones industrial
+standard and poor
+consumer price index
+gross domestic product
+federal reserve bank
+federal reserve system
+new york stock
+london stock exchange
+crude oil prices
+barrel of oil
+interest rate hike
+unemployment rate drops
+inflation rate rises
+quarterly earnings report
+initial public offering
+mergers and acquisitions
+cost of living
+quality of life
+standard of living
+supply and demand
+
+## Technology & Digital
+artificial intelligence system
+machine learning algorithm
+deep learning model
+natural language processing
+computer vision system
+virtual reality headset
+augmented reality application
+self driving car
+electric vehicle market
+renewable energy source
+social media platform
+tech giant apple
+tech giant google
+tech giant microsoft
+tech giant amazon
+silicon valley startup
+cryptocurrency market crash
+blockchain based system
+cloud computing service
+data privacy law
+cyber security threat
+information technology sector
+
+## Health & Medicine
+centers for disease control
+world health organization
+public health emergency
+mental health services
+health care system
+health insurance coverage
+prescription drug prices
+clinical trial results
+vaccine side effects
+immune system response
+infectious disease outbreak
+pandemic response plan
+emergency room visit
+intensive care unit
+primary care physician
+health care worker
+medical research institute
+national institutes health
+food and drug administration
+drug administration approved
+
+## Environment & Climate
+climate change impact
+global warming effect
+greenhouse gas emissions
+carbon dioxide levels
+renewable energy sources
+solar power plant
+wind power generation
+fossil fuel industry
+paris climate agreement
+environmental protection agency
+endangered species act
+clean air act
+clean water act
+natural disaster relief
+extreme weather events
+sea level rise
+arctic ice melting
+tropical rain forest
+coral reef bleaching
+air quality index
+
+## Law & Justice
+supreme court justice
+appeals court ruling
+district court judge
+criminal justice system
+law enforcement officials
+attorney general said
+guilty on all
+innocent until proven
+beyond reasonable doubt
+death penalty case
+life in prison
+search and seizure
+miranda rights violation
+civil rights movement
+constitutional amendment act
+landmark supreme court
+habeas corpus petition
+
+## Business & Industry
+chief executive officer
+chief financial officer
+chief operating officer
+chief technology officer
+board of directors
+initial public offering
+venture capital firm
+private equity firm
+merger and acquisition
+quarterly earnings call
+annual shareholder meeting
+market share leader
+supply chain disruption
+fortune 500 company
+small and medium
+research and development
+return on investment
+earnings per share
+price to earnings
+year over year
+
+## Military & Defense
+department of defense
+joint chiefs staff
+united states military
+armed forces personnel
+military action against
+air force base
+naval air station
+ballistic missile test
+nuclear weapons program
+weapons of mass
+peacekeeping mission force
+no fly zone
+demilitarized zone between
+prisoner of war
+rules of engagement
+theater missile defense
+
+## Sports & Events
+world cup final
+super bowl champion
+olympic gold medal
+world series game
+champions league final
+most valuable player
+hall of fame
+world record holder
+grand slam title
+hat trick goal
+penalty kick shootout
+sudden death overtime
+free agent signing
+contract extension worth
+trade deadline deal
+first round pick
+rookie of year
+player of month
+team of year
+coach of year
+
+## Education & Research
+higher education institution
+public school system
+private school tuition
+student loan debt
+standardized test scores
+ivy league university
+community college system
+research and development
+peer reviewed journal
+scientific research study
+clinical trial phase
+bachelor of arts
+master of science
+doctor of philosophy
+
+## Media & Communication
+social media platform
+fake news story
+mainstream media outlet
+press freedom index
+freedom of speech
+freedom of press
+public opinion poll
+approval rating drops
+swing state voters
+breaking news alert
+developing story continues
+exclusive interview with
+investigative journalism report
+
+## Disasters & Safety
+natural disaster relief
+emergency response team
+search and rescue
+first responders arrived
+state of emergency
+disaster relief fund
+humanitarian aid organization
+mass shooting incident
+terrorist attack claimed
+evacuation order issued
+damage assessment report
+death toll rises
+missing persons report
+
+## Transportation & Infrastructure
+public transportation system
+mass transit system
+high speed rail
+light rail transit
+air traffic control
+international airport terminal
+highway patrol officer
+interstate highway system
+traffic accident investigation
+infrastructure investment bill
+power grid failure
+electrical grid system
+water supply system
+
+## Social Issues
+human rights violation
+civil rights act
+racial justice movement
+social justice reform
+income inequality gap
+gender equality initiative
+affordable housing crisis
+healthcare access issue
+gun control legislation
+gun violence prevention
+police reform bill
+criminal justice reform
+climate justice movement
+environmental justice community
+
+## Other Important Phrases
+according to reports
+according to sources
+senior administration officials
+government officials said
+unnamed sources told
+close to situation
+eye witnesses reported
+local authorities confirmed
+police department said
+fire department responded
+hospital officials confirmed
+company spokesman said
+industry experts predict
+market analysts expect
+leading experts warn
+top military officials
+intelligence officials believe
+law enforcement sources
