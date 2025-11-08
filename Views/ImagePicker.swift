@@ -59,3 +59,8 @@ struct ImagePicker: UIViewControllerRepresentable {
         }
     }
 }
+
+// MARK: - Image Upload
+// Max size: 5MB
+// Formats: JPEG, PNG
+// Compressed before upload
