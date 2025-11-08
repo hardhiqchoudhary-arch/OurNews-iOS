@@ -93,3 +93,7 @@ struct FollowersListView: View {
         }
     }
 }
+
+// MARK: - Followers List
+// Sorted by: follow date desc
+// Shows: avatar, username, follow button
