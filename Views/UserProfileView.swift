@@ -177,3 +177,6 @@ struct UserProfileView: View {
         }
     }
 }
+
+// MARK: - Profile
+// Shows: avatar, bio, follower count, following count
