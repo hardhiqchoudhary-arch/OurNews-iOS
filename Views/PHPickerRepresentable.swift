@@ -58,3 +58,7 @@ struct PHPickerRepresentable: UIViewControllerRepresentable {
         }
     }
 }
+
+// MARK: - PHPicker
+// Supports multi-select: false
+// Filter: images only
