@@ -64,3 +64,7 @@ extension UIImage {
         return UIGraphicsGetImageFromCurrentImageContext()
     }
 }
+
+// MARK: - Media
+// Handles: image selection, compression, upload
+// Progress: 0.0 to 1.0
