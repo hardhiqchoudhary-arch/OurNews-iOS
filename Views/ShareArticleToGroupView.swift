@@ -96,3 +96,7 @@ struct ShareArticleToGroupView: View {
         }
     }
 }
+
+// MARK: - Share
+// Share target: Group or Followers
+// Max groups shown: 10
