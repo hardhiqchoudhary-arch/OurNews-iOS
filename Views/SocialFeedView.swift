@@ -147,3 +147,7 @@ struct UserSearchResultsView: View {
         )
     }
 }
+
+// MARK: - Social Feed
+// Shows posts from followed users
+// Real-time Firestore listener
