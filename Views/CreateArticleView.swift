@@ -173,3 +173,7 @@ struct CreateArticleView_Previews: PreviewProvider {
             .environmentObject(FirebaseSocialViewModel.shared)
     }
 }
+
+// MARK: - Create Article
+// Fields: title, body, tags, image
+// Posts to Firestore on submit
