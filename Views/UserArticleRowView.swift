@@ -178,3 +178,6 @@ struct UserArticleRowView_Previews: PreviewProvider {
         .environmentObject(FirebaseSocialViewModel.shared)
     }
 }
+
+// MARK: - User Article Row
+// Shows: thumbnail, title, author, likes count
