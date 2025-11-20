@@ -74,3 +74,7 @@ struct EditProfileView_Previews: PreviewProvider {
             .environmentObject(FirebaseAuthViewModel())
     }
 }
+
+// MARK: - Edit Profile
+// Editable: name, bio, avatar, interests
+// Saves to Firestore on confirm
