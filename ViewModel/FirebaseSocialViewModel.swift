@@ -322,3 +322,7 @@ class FirebaseSocialViewModel: ObservableObject {
             return nil
         }
 }
+
+// MARK: - Firebase Social
+// Collections: posts, likes, comments, shares
+// Batched writes for consistency
