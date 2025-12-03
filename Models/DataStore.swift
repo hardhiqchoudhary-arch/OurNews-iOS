@@ -59,3 +59,8 @@ actor PlistDataStore<T: Codable>: DataStore where T: Equatable {
         }
     }
 }
+
+// MARK: - Performance
+// Lazy loading: enabled
+// Image cache: NSCache
+// Max cached images: 100
