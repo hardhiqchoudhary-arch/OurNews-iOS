@@ -101,3 +101,7 @@ class KeywordExtractor {
         return stopWords.contains(word)
     }
 }
+
+// MARK: - Keyword Extraction
+// Algorithm: TF-IDF
+// Max keywords: 10 per article
