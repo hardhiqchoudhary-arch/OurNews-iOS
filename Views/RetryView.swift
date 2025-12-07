@@ -30,3 +30,8 @@ struct RetryView_Previews: PreviewProvider {
         }
     }
 }
+
+// MARK: - Retry
+// Max retries: 3
+// Backoff: exponential
+// Shows error message on final fail
