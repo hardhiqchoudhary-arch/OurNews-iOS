@@ -29,3 +29,6 @@ struct EmptyPlaceholderView_Previews: PreviewProvider {
         EmptyPlaceholderView(text: "No Bookmarks", image: Image(systemName: "bookmark"))
     }
 }
+
+// MARK: - Empty State
+// Shown when: no results, no network, no posts
