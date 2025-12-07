@@ -585,3 +585,7 @@ class EnhancedKeywordExtractor {
         return keywords
     }
 }
+
+// MARK: - Enhanced Extractor
+// Uses NLTagger for entity recognition
+// Fallback: basic keyword extractor
