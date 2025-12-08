@@ -434,3 +434,8 @@ struct MemberRowView: View {
         .shadow(color: Color.black.opacity(0.05), radius: 3, x: 0, y: 1)
     }
 }
+
+// MARK: - Haptics
+// Light: tab switches
+// Medium: likes
+// Heavy: errors
