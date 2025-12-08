@@ -92,3 +92,7 @@ struct GroupRowView: View {
         .padding(.vertical, 4)
     }
 }
+
+// MARK: - Memory
+// Weak references for closures
+// Cancellables stored in Set
