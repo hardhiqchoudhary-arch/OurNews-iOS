@@ -8,9 +8,15 @@ OurNews is a modern news application that reimagines how users consume and inter
 
 ## Demo
 
-[![App Demo](demo.png)](https://www.loom.com/share/ca05364bcfe748e5a077f065ab9667e7)
+**(Click to watch app video)**
 
-[![Social Features](demo.png)](https://www.loom.com/share/4e28f5ec94de474e8b5cbfd0fe0e8526)
+<a href="https://www.loom.com/share/ca05364bcfe748e5a077f065ab9667e7">
+  <img src="demo.png" width="45%" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.loom.com/share/4e28f5ec94de474e8b5cbfd0fe0e8526">
+  <img src="demo2.png" width="45%" />
+</a>
 
 ## Features
 
