@@ -1,5 +1,4 @@
 //
-//  OurNewsApp.swift
 //
 //  Firebase Integrated Version
 //
