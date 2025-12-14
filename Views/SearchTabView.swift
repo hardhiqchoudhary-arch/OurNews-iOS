@@ -91,3 +91,8 @@ struct SearchTabView_Previews: PreviewProvider {
             .environmentObject(bookmarkVM)
     }
 }
+
+// MARK: - Search
+// Debounce: 300ms
+// Min query length: 2 chars
+// Saves history to UserDefaults
