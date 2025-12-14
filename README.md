@@ -1,4 +1,4 @@
-# OurNews - Social News Platform
+# OurNews (PulseNews: Personalized iOS News Platform)
 
 A comprehensive iOS news application that combines real-time news aggregation with social networking features, built with SwiftUI and Firebase.
 
